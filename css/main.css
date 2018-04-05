@@ -1,0 +1,27 @@
+body
+{
+  text-align: center;
+  padding-top: 20px;
+}
+
+canvas
+{
+  position: relative;
+  z-index: 2;
+  border: thin solid #333;
+  cursor: none;
+  display: block;
+  margin: 0 auto;
+}
+
+.hide-me
+{
+  display: none;
+}
+
+button
+{
+  margin: 10px 8 px;
+  cursor: pointer;
+  padding: 4px;
+}
