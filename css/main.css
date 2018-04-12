@@ -11,8 +11,9 @@ canvas {
 	border : thin solid black;
 	display: block;
 	margin: 0 auto 20px;
+  cursor: none;
 }
-/* cursor: none; */
+
 button {  margin: 0 8px; user-select: none; cursor: pointer; }
 
 .hide-me { display : none; }
